@@ -1,0 +1,9 @@
+folium==0.16.0
+numpy==1.26.4
+openmeteo_requests==1.2.0
+pandas==2.2.1
+requests_cache==1.2.0
+retry_requests==2.0.0
+scipy==1.12.0
+streamlit==1.31.1
+streamlit_folium==0.18.0
